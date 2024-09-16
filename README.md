@@ -1,4 +1,4 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/871735712662315018)](https://discord.com/users/871735712662315018)
+[![Discord Presence](https://lanyard.cnrad.dev/api/871735712662315018?animated=:true)](https://discord.com/users/871735712662315018)
 <!--
 **eerrixc/eerrixc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
